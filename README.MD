@@ -70,7 +70,7 @@ dotnet test
 
 ## Requirements
 
-- **.NET 8.0** or compatible
+- **.NET 9.0** or compatible
 - **No external dependencies**
 
 ## License
