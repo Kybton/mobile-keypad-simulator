@@ -6,7 +6,7 @@ A clean, efficient C# implementation of the classic T9 (Text on 9 keys) predicti
 
 ```bash
 # Clone and build
-git clone <repository-url>
+git clone https://github.com/Kybton/mobile-keypad-simulator.git
 cd KeyPadPhone
 dotnet build
 
